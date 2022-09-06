@@ -12,3 +12,4 @@ function numberGenerate() {
         if (casualNumbers.includes(userArray[i])) { sussesfulNumber.push(userArray[i]); }
     } console.log('successfull', sussesfulNumber);
 };
+/* da rivedere*/
